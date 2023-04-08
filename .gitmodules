@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/deadoralive1908/images
+	url = https://github.com/deadoralive1908/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
